@@ -4,4 +4,4 @@
 cd pwa-studio
 
 # Start yarn run watch and keep it running
-yarn run watch
+yarn run start
